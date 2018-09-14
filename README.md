@@ -1,2 +1,2 @@
 # setup
-This repository is used for setting github on my home computer
+I have added more text
